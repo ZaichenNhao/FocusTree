@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>148115002052-rjssbo9pe2fpf0k90imtc9enqmp12m64.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148115002052-rjssbo9pe2fpf0k90imtc9enqmp12m64</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEM98QoNGAI8xL-fvqJ52fseRG3bGJSuE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148115002052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FocusTree</string>
+	<key>PROJECT_ID</key>
+	<string>focustree-d46fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>focustree-d46fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148115002052:ios:c2d5f7bfc26ae1fb0daf91</string>
+	<key>DATABASE_URL</key>
+	<string>https://focustree-d46fa.firebaseio.com</string>
+</dict>
+</plist>
